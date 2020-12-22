@@ -1,4 +1,4 @@
-## <img src="https://tva1.sinaimg.cn/large/0081Kckwly1glvd0omkfzj30ds0dsaax.jpg" width=50>AmazingZ-sys's Github Page
+## <img src="https://avatars2.githubusercontent.com/u/37972645?s=460&u=aaf8e9a49fa2d8ca6f816b04cb226cfbbc9516bc&v=4" width=50>AmazingZ-sys's Github Page
 
 
 
