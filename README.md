@@ -15,12 +15,10 @@ Address: 北京市朝阳区望京街道
 [![GitHub followers](https://img.shields.io/github/followers/AmazingZ-sys?label=Follow&style=social)](https://github.com/AmazingZ-sys)
 [![blog](https://tva1.sinaimg.cn/large/0081Kckwly1glvd45veqbj300u00u7b2.jpg)](https://www.zhouxiaozhao.cn/)
 
-## <img src="https://tva1.sinaimg.cn/large/0081Kckwly1glvd56qtxlg30dc0bc75z.gif" width="50">A little more about me
-
-<img src="https://tva1.sinaimg.cn/large/0081Kckwly1glvd64k10hg30c305ldgr.gif" width="800">
-
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+
+- [JavaScript学习笔记01-02](http://linzhi.group/views/%E5%89%8D%E7%AB%AF/JavaScript%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B001-02.html)
 
 - [学习笔记_JavaScript深度剖析](http://linzhi.group/views/%E5%89%8D%E7%AB%AF/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0_JavaScript%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90.html#%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B)
 - [webpack学习实战](http://linzhi.group/views/%E5%89%8D%E7%AB%AF/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAwebpack.html#%E5%89%8D%E8%A8%80)
